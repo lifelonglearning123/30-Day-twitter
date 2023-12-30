@@ -3,3 +3,5 @@ openai
 pandas
 feedgen
 st-paywall
+libxml2
+libxslt
